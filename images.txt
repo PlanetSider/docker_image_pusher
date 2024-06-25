@@ -1,6 +1,30 @@
-nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+gdy666/lucky
+hectorqin/reader
+nastools/nas-tools
+nevinee/qbittorrent
+nyanmisaka/jellyfin
+portainer/portainer-ce
+stashapp/stash
+suwmlee/ikaros
+xhofe/alist
+zht39635371/pt-manage-plugin
+0nlylty/dockercopilot:UGREEN
+bellamy/wallos
+zack357/douban-tool
+crazymax/diun
+gotify/server
+linuxserver/wikijs
+b3log/siyuan
+wiznote/wizserver
+zmister/mrdoc:v8
+freshrss/freshrss
+cooderl/wewe-rss-sqlite
+ollama/ollama
+zadam/trilium
+minio/minio
+diygod/rsshub:chromium-bundled
