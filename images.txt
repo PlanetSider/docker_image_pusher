@@ -28,3 +28,4 @@ ollama/ollama
 zadam/trilium
 minio/minio
 diygod/rsshub:chromium-bundled
+jxxghp/MoviePilot
