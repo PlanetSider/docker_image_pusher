@@ -29,3 +29,5 @@ zadam/trilium
 minio/minio
 diygod/rsshub:chromium-bundled
 jxxghp/moviepilot
+ghcr.io/cxfksword/douban-api-rs
+talebook/talebook
